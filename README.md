@@ -33,5 +33,5 @@ The system measures distance in real-time. If an object comes within a 20cm rang
 
 🎓 Internship Credit
 * **Organization:** SoftGrow Tech 🏢
-* **Task:** Task 1 (Smart Systems) ✅
-* **Student:** [Apna Naam Likhen]
+* **Task:** SMART LED SYSTEM 
+* **Student:** Hafiza Yumna Mushtaq
