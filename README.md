@@ -1,5 +1,4 @@
-# SoftGrowTech_Smart_LED_System
-# Smart LED Alert System 💡
+# SoftGrowTech_Smart_LED_System 💡
 
 This project is developed as part of the **SoftGrow Tech IoT Internship**. It features a touchless LED alert system that triggers based on the proximity of an object using an ultrasonic sensor.
 
