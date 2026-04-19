@@ -13,13 +13,15 @@ The system measures distance in real-time. If an object comes within a 20cm rang
 * **Breadboard & Jumper Wires** 🔌
 
 🔌 Circuit Connections
-| Component  | Arduino Pin |
-| Sensor VCC | 5V |
-| Sensor GND | GND |
-| Sensor Trig| Pin 9 |
-| Sensor Echo| Pin 10 |
-| LED Anode (+ via Resistor) | Pin 13 |
-| LED Cathode (-) | GND |
+| Component                  | Arduino Pin |
+| -------------------------- | ----------- |
+| Sensor VCC                 | 5V          |
+| Sensor GND                 | GND         |
+| Sensor Trig                | Pin 9       |
+| Sensor Echo                | Pin 10      |
+| LED Anode (+ via resistor) | Pin 13      |
+| LED Cathode (-)            | GND         |
+
 
 
 
